@@ -1,4 +1,4 @@
-# Energy AI Intelligence
+# EnergyInsight: AI-Enabled Building Energy Prediction and Anomaly Detection System || Energy AI Intelligence
 
 An AI-driven energy intelligence project developed as part of the **1M1B AI for Sustainability Virtual Internship** in collaboration with IBM SkillsBuild and AICTE.
 
@@ -356,7 +356,7 @@ The following screenshots demonstrate the main features of the Streamlit dashboa
 
 ### 1. Dashboard Overview
 
-![Energy AI Intelligence Dashboard](Screenshots/Dashboard.png)
+![EnergyInsight Dashboard](Screenshots/Dashboard.png)
 
 ### 2. Actual vs Predicted Energy Consumption
 
@@ -505,7 +505,7 @@ The dashboard is intended for local demonstration and analysis of the project's 
 
 ## Project Information
 
-**Project:** Energy AI Intelligence
+**Project:** EnergyInsight: AI-Enabled Building Energy Prediction and Anomaly Detection System || Energy AI Intelligence
 
 **Program:** 1M1B AI for Sustainability Virtual Internship 2026
 
