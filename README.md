@@ -1,4 +1,4 @@
-# EnergyInsight: AI-Enabled Building Energy Prediction and Anomaly Detection System || Energy AI Intelligence
+# EnergyInsight: AI-Enabled Building Energy Prediction and Anomaly Detection System
 
 An AI-driven energy intelligence project developed as part of the **1M1B AI for Sustainability Virtual Internship** in collaboration with IBM SkillsBuild and AICTE.
 
